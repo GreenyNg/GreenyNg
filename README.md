@@ -9,5 +9,5 @@
 - How to reach me: ...
 - Pronouns: ...
 -->
-- ⚡Fun fact: I love to design, explore systems, think, dance and watch funny suspenseful movies.
+- ⚡Fun fact: In my spare time, I design, explore systems, think, dance or watch funny suspenseful movies.
 
