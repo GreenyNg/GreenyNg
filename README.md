@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My name is Evergreen Odeh, a full-stack product designer who loves to code.
-- 
+<!-- -->
 - I’m currently working on gaining more skills and learning new thngs.
 <!--
 - I’m looking to collaborate on ...
