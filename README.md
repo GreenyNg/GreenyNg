@@ -10,5 +10,5 @@
 - How to reach me: ...
 - Pronouns: ...
 -->
-- ⚡Fun fact: In my spare time, I design, explore systems, think, dance or watch funny suspenseful movies.
+- ⚡ Fun fact: In my spare time, I design, explore systems, think, dance or watch funny suspenseful movies.
 
