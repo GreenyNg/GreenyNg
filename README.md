@@ -13,7 +13,7 @@
 <br />
 <h3 align="center">My website:</h3>
 <p align="center">
-<a href="https://bit.ly/the_graphicalgreeny"><img src="https://img.shields.io/badge/%F0%9F%8D%83%20The%20Graphical%20Greeny-htttps%3A%2F%2Fbit.ly%2Fthe__graphicalgreeny-lightgrey"/></a>
+<a href="https://bit.ly/codesignher"><img src="https://img.shields.io/badge/%F0%9F%8D%83%%20Evergreen%20Odeh-htttps%3A%2F%2Fbit.ly%2Fcodesignher-lightgrey"/></a>
 </p>
 <br />
 <h3 align="center">My blogs:</h3>
@@ -24,11 +24,11 @@
 <br />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/thegraphicalgreeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thegraphicalgreeny" height="30" width="40" /></a>
-<a href="https://twitter.com/graphicalgreeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="graphicalgreeny" height="30" width="40" /></a>
+<a href="https://codepen.io/thegraphicalgreeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Evergreen Odeh" height="30" width="40" /></a>
+<a href="https://twitter.com/graphicalgreeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Evergreen Odeh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/evergreenodeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evergreenodeh" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/thegraphicalgreeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/thegraphicalgreeny" height="30" width="40" /></a>
-<a href="https://www.behance.net/thegraphicalgreeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="thegraphicalgreeny" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/codesignher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/codesignher" height="30" width="40" /></a>
+<a href="https://www.behance.net/codesignher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Evergreen Odeh" height="30" width="40" /></a>
 </p>
 <br />
 <h3 align="center">Languages and Tools:</h3>
