@@ -13,7 +13,7 @@
 <br />
 <h3 align="center">My website:</h3>
 <p align="center">
-<a href="https://bit.ly/the_graphicalgreeny"><img src="https://img.shields.io/badge/%F0%9F%8D%83%20The%20Graphical%20Greeny-htttps%3A%2F%2Fbit.ly%2Fthe__graphicalgreeny-lightgrey"/></a>
+<a href="https://bit.ly/codesignher"><img src="https://img.shields.io/badge/%F0%9F%8D%83%20The%20Graphical%20Greeny-htttps%3A%2F%2Fbit.ly%2Fthe__graphicalgreeny-lightgrey"/></a>
 </p>
 <br />
 <h3 align="center">My blogs:</h3>
