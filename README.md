@@ -1,4 +1,4 @@
-<img src="20230831_105844_0001.png" alt="GreenyNg" /> <br /> 
+<img src="20230831_105844_0001.png" alt="Evergreen Odeh" /> <br /> 
 <!--
 - I’m looking to collaborate on ...
 - I’m looking for help with ...
@@ -7,29 +7,32 @@
 - Pronouns: ...
 -->
 <h1 align="center">Hi 👋, I'm Evergreen Odeh</h1>
-<h3 align="center">A full-stack product design engineer who loves to code.</h3>
+<h3 align="center">A product designer who loves to code.</h3>
 <p align="center">I’m currently working on gaining more skills and learning new things.</p>
 <p align="center">⚡ Fun fact: In my spare time, I design, explore systems, think, dance, or watch funny suspenseful movies. </p>
 <br />
 <h3 align="center">My website:</h3>
 <p align="center">
 
-<a href="https://bit.ly/codesignher"><img src="https://img.shields.io/badge/%F0%9F%8D%83%%20Evergreen%20Odeh-htttps%3A%2F%2Fbit.ly%2Fcodesignher-lightgrey"/></a>
+<a href="https://bit.ly/codesignher"><img src="https://img.shields.io/badge/%F0%9F%8D%83%20Visit%20my%20website-htttps%3A%2F%2Fbit.ly%2Fcodesignher-lightgrey"/></a>
+
 </p>
 <br />
 <h3 align="center">My blogs:</h3>
 <p align="center">
 <a href="https://hashnode.com/@greenyng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@greenyng" height="30" width="40" /></a>
-<a href="https://medium.com/@evergreenodeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@evergreenodeh" height="30" width="40" /></a>
+<a href="https://medium.com/@evergreen_odeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@evergreenodeh" height="30" width="40" /></a>
 </p>
 <br />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/thegraphicalgreeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Evergreen Odeh" height="30" width="40" /></a>
-<a href="https://twitter.com/graphicalgreeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Evergreen Odeh" height="30" width="40" /></a>
+
+<a href="https://codepen.io/thegraphicalgreeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="evergreenodeh" height="30" width="40" /></a>
+<a href="https://twitter.com/evergreen_odeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@codesignher" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/evergreenodeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evergreenodeh" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/codesignher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/codesignher" height="30" width="40" /></a>
-<a href="https://www.behance.net/codesignher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Evergreen Odeh" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/evergreen_odeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/codesignher" height="30" width="40" /></a>
+<a href="https://www.behance.net/evergreen_odeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="be.net/codesignher" height="30" width="40" /></a>
+
 </p>
 <br />
 <h3 align="center">Languages and Tools:</h3>
