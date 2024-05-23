@@ -13,9 +13,7 @@
 <br />
 <h3 align="center">My website:</h3>
 <p align="center">
-
-<a href="https://bit.ly/evergreen_odeh"><img src="https://img.shields.io/badge/%F0%9F%8D%83%20Visit%20my%20website-htttps%3A%2F%2Fbit.ly%2Fevergreen_odeh-lightgrey"/></a>
-
+<a href="https://bit.ly/evergreen_odeh"><img src="https://img.shields.io/badge/%F0%9F%8D%83%20Visit%20my%20website-htttps%3A%2F%2Fbit.ly%2Fevergreenodeh-lightgrey"/></a>
 </p>
 <br />
 <h3 align="center">My blogs:</h3>
@@ -30,8 +28,8 @@
 <a href="https://codepen.io/thegraphicalgreeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="evergreenodeh" height="30" width="40" /></a>
 <a href="https://twitter.com/evergreen_odeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@codesignher" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/evergreenodeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evergreenodeh" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/evergreen_odeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/codesignher" height="30" width="40" /></a>
-<a href="https://www.behance.net/evergreen_odeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="be.net/codesignher" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/evergreen_odeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/evergreen_odeh" height="30" width="40" /></a>
+<a href="https://www.behance.net/evergreen_odeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="be.net/evergreen_odeh" height="30" width="40" /></a>
 
 </p>
 <br />
