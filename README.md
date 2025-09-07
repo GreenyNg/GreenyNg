@@ -13,7 +13,7 @@
 <p align="center">⚡ Fun fact: In my spare time, I design, explore systems, think, dance, or watch funny suspenseful movies. </p>
 <h3 align="center">My website:</h3>
 <p align="center">
-<a href="https://evergreenodeh.bio"><img src="https://img.shields.io/badge/%F0%9F%8D%83%20Visit%20my%20website-htttps%3A%2F%2FEvergreen%2FOdeh-lightgrey"/></a>
+<a href="https://evergreenodeh.bio"><img src="https://img.shields.io/badge/%F0%9F%8D%83%20Visit%20my%20website-htttps%3A%2F%2Fevergreenodeh.bio-lightgrey"/></a>
 </p>
 <h3 align="center">My blogs:</h3>
 <p align="center">
