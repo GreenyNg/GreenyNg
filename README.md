@@ -8,7 +8,7 @@
 -->
 <h1 align="center">Hi 👋, I'm Evergreen Odeh</h1>
 <h3 align="center">Product Designer by day.</h3>
-<h3 align="center">Software Engineer by night.</h3>
+<h3 align="center">AI-powered Software Engineer by night.</h3>
 <p align="center">I’m currently working on gaining more skills and learning new things.</p>
 <p align="center">⚡ Fun fact: In my spare time, I design, explore systems, think, dance, or watch funny suspenseful movies. </p>
 <h3 align="center">My website:</h3>
